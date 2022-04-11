@@ -1,31 +1,3 @@
-////////////////////////////////////////////////////////////////////////////////
-// Main File:        csim.c
-// This File:        csim.c
-// Other Files:      csim-ref, makefile, test-csim
-// Semester:         CS 354 Lecture 003 Fall 2021
-// Instructor:       deppeler
-// 
-// Author:           Michael Corbishley
-// Email:            mcorbishley@wisc.edu
-// CS Login:         corbishley
-//
-/////////////////////////// OTHER SOURCES OF HELP //////////////////////////////
-//                   fully acknowledge and credit all sources of help,
-//                   other than Instructors and TAs.
-//
-// Persons:          N/A
-//
-// Online sources:   N/A
-//
-//
-//////////////////////////// 80 columns wide ///////////////////////////////////
-////////////////////////////////////////////////////////////////////////////////
-//
-// Copyright 2013,2019-2020
-// Posting or sharing this file is prohibited, including any changes/additions.
-//
-////////////////////////////////////////////////////////////////////////////////
-
 /*
  * csim.c:  
  * A cache simulator that can replay traces (from Valgrind) and output
